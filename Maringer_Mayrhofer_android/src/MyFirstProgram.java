@@ -14,5 +14,7 @@ public class MyFirstProgram {
 		}
 		System.out.println();
 	}
-	public static void thisIsANewNotWorkingJavaMethod(int uselessJavaArgument){}
+	public static void thisIsANewNotWorkingJavaMethod(int uselessJavaArgument){
+		Out.Print("Useless java argument: "+uselessJavaArgument);
+	}
 }
