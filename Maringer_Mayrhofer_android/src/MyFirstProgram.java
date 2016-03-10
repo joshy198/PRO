@@ -9,4 +9,5 @@ public class MyFirstProgram {
 			Out.println(": Hello World!");
 		} // for } // main } // MyFirstProgram
 	}
+	public static void thisIsANewNotWorkingJavaMethod(int uselessJavaArgument){}
 }
