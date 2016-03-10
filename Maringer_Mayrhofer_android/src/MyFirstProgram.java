@@ -14,5 +14,7 @@ public class MyFirstProgram {
 		}
 		System.out.println();
 	}
-	public static void thisIsANewNotWorkingJavaMethod(int uselessJavaArgument){}
+	public static void thisIsANewNotWorkingJavaMethod(int uselessJavaArgument){
+		System.out.println("Java ist voll ober toll.");
+	}
 }
