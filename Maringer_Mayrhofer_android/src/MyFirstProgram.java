@@ -18,5 +18,7 @@ public class MyFirstProgram {
 		System.out.println("Java ist voll ober toll.");
 		Out.Print("Useless java argument: "+uselessJavaArgument);
 		Out.Print("Better use of useless Argument: "+uselessArgument*2);
+		int a = 1; //Variable zum fixxen des Bugs
+		System.out.println(a);
 	}
 }
