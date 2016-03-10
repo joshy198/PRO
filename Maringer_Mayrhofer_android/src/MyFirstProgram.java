@@ -8,5 +8,10 @@ public class MyFirstProgram {
 			Out.print(i); // j statt i
 			Out.println(": Hello World!");
 		} // for } // main } // MyFirstProgram
+		System.out.println("Hello second world! Ich habe den Code geändert.");
+		for (int i = 0; i < 5; i++) {
+			System.out.print(i);
+		}
+		System.out.println();
 	}
 }
