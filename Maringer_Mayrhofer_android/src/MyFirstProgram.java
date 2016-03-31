@@ -1,4 +1,6 @@
 public class MyFirstProgram {
+	int noVar;
+	
 	public static void main(String[] args) {
 		int numberOfOutputs; // integer statt int
 		Out.print("Please enter the number of outputs: ");
@@ -20,5 +22,9 @@ public class MyFirstProgram {
 		Out.Print("Better use of useless Argument: "+uselessArgument*2);
 		int a = 1; //Variable zum fixxen des Bugs
 		System.out.println(a);
+	}
+	
+	public class MyFirstProgram() {
+		noVar = 3;
 	}
 }
